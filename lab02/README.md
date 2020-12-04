@@ -1,5 +1,9 @@
 ## Loans borrowers task: 
 
+Marcos Barragán Corredera
+
+Adrián González Retamosa
+
 We develope several classification models trying to predict the loan default payment. We include: 
 
 - EDA, transformation and cleaning data variables
